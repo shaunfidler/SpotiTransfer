@@ -36,3 +36,5 @@ Enter the username of the account you would like to transfer to, followed by the
 For example, in our case we would use NewAccount as the username and OldAccount.csv as the filename. Afterwards, 'Liked Songs' from OldAccount would be imported one by one into the NewAccount, maintaining the original order. There is a one-second delay between each song import to ensure ordering is correct. 
 
 **With the process complete, Liked songs should have been migrated from OldAccount to NewAccount. 
+
+A sample csv file is included in this repo. Also, two images are included showing the before and after for an account. 
